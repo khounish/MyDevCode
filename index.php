@@ -1,0 +1,3 @@
+<?phpinfo>
+print "test"
+<?>
